@@ -1,6 +1,6 @@
 # SentrisCloud
 
-**Products and applications built on [Sentrix Chain](https://sentrixchain.com) — an Indonesian Layer 1 blockchain.**
+**Products and applications built on [Sentrix Chain](https://sentrixchain.com) — Layer 1 blockchain.**
 
 We build the user-facing layer of the Sentrix ecosystem: explorers, wallets, faucets, exchanges, and tooling that make the chain usable for everyone.
 
