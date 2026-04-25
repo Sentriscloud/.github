@@ -1,6 +1,10 @@
-# SentrisCloud
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sentrix-labs/brand-kit@master/png-transparent/sentriscloud-512.png" alt="SentrisCloud" width="160">
+</p>
 
-**Products and applications built on [Sentrix Chain](https://sentrixchain.com) — Layer 1 blockchain.**
+<h1 align="center">SentrisCloud</h1>
+
+<p align="center"><strong>Products and applications built on <a href="https://sentrixchain.com">Sentrix Chain</a> — a Layer 1 blockchain.</strong></p>
 
 We build the user-facing layer of the Sentrix ecosystem: explorers, wallets, faucets, exchanges, and tooling that make the chain usable for everyone.
 
