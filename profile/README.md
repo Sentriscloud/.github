@@ -14,11 +14,11 @@ Home of the apps that make Sentrix Chain usable: explorer, wallets, faucet, laun
 
 | Product | What it is | Live URL |
 | --- | --- | --- |
-| **SentrixScan** | Block explorer for Sentrix Chain | [scan.sentrixchain.com](https://scan.sentrixchain.com) |
-| **Sentrix Faucet** | Testnet SRX faucet for builders | [faucet.sentrixchain.com](https://faucet.sentrixchain.com) |
-| **Solux** | Mobile wallet for SRX (Flutter, multi-platform) | In development |
-| **Sentrix Wallet (web)** | Browser wallet for SRX | In development |
-| **CoinBlast** | DEX and token launchpad | Planned |
+| **SentrixScan** | Block explorer for Sentrix Chain (mainnet + testnet, in-app toggle) | [scan.sentrixchain.com](https://scan.sentrixchain.com) |
+| **Sentrix Faucet** | Mainnet + testnet SRX faucet, Turnstile-protected | [faucet.sentrixchain.com](https://faucet.sentrixchain.com) |
+| **Solux (web)** | Self-custody web wallet — keys on-device, multi-account, staking, SRC-20 | [solux.sentriscloud.com](https://solux.sentriscloud.com) |
+| **Solux (mobile)** | Native iOS + Android wallet (Flutter), same brand and protocol as web | In development |
+| **CoinBlast** | DEX + memecoin launchpad | [coinblast.sentriscloud.com](https://coinblast.sentriscloud.com) (alpha) |
 
 ## Where things live
 
@@ -31,8 +31,9 @@ If you're looking for the chain itself, the Rust node, or the whitepaper, head t
 
 | Repo | Description |
 |------|-------------|
-| [**frontend**](https://github.com/Sentriscloud/frontend) | TypeScript monorepo — landing, scan, faucet, wallet, launchpad |
+| [**frontend**](https://github.com/Sentriscloud/frontend) | TypeScript monorepo — chain-landing, brand site, scan, faucet, solux web, coinblast |
 | [**solux**](https://github.com/Sentriscloud/solux) | Solux mobile wallet (Flutter) |
+| [**.github**](https://github.com/Sentriscloud/.github) | This profile + org-level config |
 
 ---
 
@@ -41,4 +42,5 @@ If you're looking for the chain itself, the Rust node, or the whitepaper, head t
 - 🌐 Brand: **[sentriscloud.com](https://sentriscloud.com)**
 - ⛓️ Chain: **[sentrixchain.com](https://sentrixchain.com)**
 - ✉️ Contact: `hello@sentriscloud.com`
-- 🔒 Security: `security@sentriscloud.com`
+- 🔒 Security: `security@sentriscloud.com` (chain protocol issues: `security@sentrixchain.com`)
+- 🤝 Partnerships: `partners@sentriscloud.com`
