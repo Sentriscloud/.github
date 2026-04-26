@@ -4,22 +4,21 @@
 
 <h1 align="center">SentrisCloud</h1>
 
-<p align="center"><strong>Products and applications built on <a href="https://sentrixchain.com">Sentrix Chain</a> — a Layer 1 blockchain.</strong></p>
+<p align="center"><strong>Products and applications built on <a href="https://sentrixchain.com">Sentrix Chain</a> — a Layer-1 blockchain.</strong></p>
 
-We build the user-facing layer of the Sentrix ecosystem: explorers, wallets, faucets, exchanges, and tooling that make the chain usable for everyone.
+We build the user-facing layer of the Sentrix ecosystem: explorer, wallets, faucet, launchpad, and tooling that make the chain usable for everyone.
 
 ---
 
 ## Products
 
-| Product | What it is | Status |
+| Product | What it is | Live URL |
 | --- | --- | --- |
-| **SentrixScan** | Block explorer for Sentrix Chain | In development |
-| **Sentrix Wallet** | Web and mobile wallet for SRX | In development |
-| **Sentrix Faucet** | Testnet token faucet for builders | In development |
+| **SentrixScan** | Block explorer for Sentrix Chain | [scan.sentrixchain.com](https://scan.sentrixchain.com) |
+| **Sentrix Faucet** | Testnet SRX faucet for builders | [faucet.sentrixchain.com](https://faucet.sentrixchain.com) |
+| **Solux** | Mobile wallet for SRX (Flutter, multi-platform) | In development |
+| **Sentrix Wallet (web)** | Browser wallet for SRX | In development |
 | **CoinBlast** | DEX and token launchpad | Planned |
-
----
 
 ## Where things live
 
@@ -28,11 +27,18 @@ We build the user-facing layer of the Sentrix ecosystem: explorers, wallets, fau
 
 If you're looking for the chain itself, the Rust node, or the whitepaper, head to **[sentrix-labs/sentrix](https://github.com/sentrix-labs/sentrix)**.
 
+## Repositories
+
+| Repo | Description |
+|------|-------------|
+| [**frontend**](https://github.com/Sentriscloud/frontend) | TypeScript monorepo — landing, scan, faucet, wallet, launchpad |
+| [**solux**](https://github.com/Sentriscloud/solux) | Solux mobile wallet (Flutter) |
+
 ---
 
 ## Links
 
-- Company: [sentriscloud.com](https://sentriscloud.com)
-- Chain: [sentrixchain.com](https://sentrixchain.com)
-- Contact: `hello@sentriscloud.com`
-- Security: `security@sentriscloud.com`
+- 🏢 Company: **[sentriscloud.com](https://sentriscloud.com)**
+- 🌐 Chain: **[sentrixchain.com](https://sentrixchain.com)**
+- ✉️ Contact: `hello@sentriscloud.com`
+- 🔒 Security: `security@sentriscloud.com`
