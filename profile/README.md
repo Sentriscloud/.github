@@ -4,9 +4,9 @@
 
 <h1 align="center">SentrisCloud</h1>
 
-<p align="center"><strong>Products and applications built on <a href="https://sentrixchain.com">Sentrix Chain</a> — a Layer-1 blockchain.</strong></p>
+<p align="center"><strong>User-facing apps and tooling for <a href="https://sentrixchain.com">Sentrix Chain</a> — a Layer-1 blockchain.</strong></p>
 
-We build the user-facing layer of the Sentrix ecosystem: explorer, wallets, faucet, launchpad, and tooling that make the chain usable for everyone.
+Home of the apps that make Sentrix Chain usable: explorer, wallets, faucet, launchpad. Founded and maintained by [@satyakwok](https://github.com/satyakwok).
 
 ---
 
@@ -38,7 +38,7 @@ If you're looking for the chain itself, the Rust node, or the whitepaper, head t
 
 ## Links
 
-- 🏢 Company: **[sentriscloud.com](https://sentriscloud.com)**
-- 🌐 Chain: **[sentrixchain.com](https://sentrixchain.com)**
+- 🌐 Brand: **[sentriscloud.com](https://sentriscloud.com)**
+- ⛓️ Chain: **[sentrixchain.com](https://sentrixchain.com)**
 - ✉️ Contact: `hello@sentriscloud.com`
 - 🔒 Security: `security@sentriscloud.com`
