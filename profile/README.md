@@ -44,3 +44,13 @@ If you're looking for the chain itself, the Rust node, or the whitepaper, head t
 - ✉️ Contact: `hello@sentriscloud.com`
 - 🔒 Security: `security@sentriscloud.com` (chain protocol issues: `security@sentrixchain.com`)
 - 🤝 Partnerships: `partners@sentriscloud.com`
+
+---
+
+## Sponsor the Team
+
+SentrisCloud apps (frontend, Solux wallet, scan, faucet, SDKs) are built and maintained directly. Direct crypto support keeps the lights on — no fiat, no middleman.
+
+[![Sponsor @satyakwok](https://img.shields.io/badge/Sponsor-@satyakwok-2ea44f?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/satyakwok#sponsor)
+
+Send on **EVM · Solana · Sui · Bitcoin (Taproot)** — addresses + QR codes at [@satyakwok](https://github.com/satyakwok#sponsor).
